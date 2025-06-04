@@ -1,2 +1,0 @@
-ninja: Entering directory `/Users/jiangyanxin/Downloads/OpenCV-android-sdk/sdk/.cxx/Debug/2u3a6g3b/armeabi-v7a'
-ninja: no work to do.

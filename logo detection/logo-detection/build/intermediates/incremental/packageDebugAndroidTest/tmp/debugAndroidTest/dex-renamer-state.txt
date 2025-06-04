@@ -1,4 +1,0 @@
-#Wed Jun 04 05:21:18 CDT 2025
-base.0=/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
-path.0=0/classes.dex
-renamed.0=classes.dex

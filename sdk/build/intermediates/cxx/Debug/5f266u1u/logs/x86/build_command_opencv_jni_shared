@@ -1,4 +1,0 @@
-/Users/jiangyanxin/Library/Android/sdk/cmake/3.22.1/bin/ninja \
-  -C \
-  "/Users/jiangyanxin/Desktop/logo detection/sdk/.cxx/Debug/5f266u1u/x86" \
-  opencv_jni_shared

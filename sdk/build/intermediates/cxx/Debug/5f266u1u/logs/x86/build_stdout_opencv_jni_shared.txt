@@ -1,2 +1,0 @@
-ninja: Entering directory `/Users/jiangyanxin/Desktop/logo detection/sdk/.cxx/Debug/5f266u1u/x86'
-ninja: no work to do.
