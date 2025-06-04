@@ -1,0 +1,11 @@
+org.opencv.samples.facedetect.logo-detection-jetified-annotation-experimental-1.3.0-0 /Users/jiangyanxin/.gradle/caches/8.11.1/transforms/19e948a8f5fa6d4308a20140dfa11645/transformed/jetified-annotation-experimental-1.3.0/res
+org.opencv.samples.facedetect.logo-detection-core-1.9.0-1 /Users/jiangyanxin/.gradle/caches/8.11.1/transforms/b0dd54327a27306e7e59bf3f9b60b4a3/transformed/core-1.9.0/res
+org.opencv.samples.facedetect.logo-detection-lifecycle-runtime-2.3.1-2 /Users/jiangyanxin/.gradle/caches/8.11.1/transforms/ca70ec9fb129fc78c12671c9d8175b79/transformed/lifecycle-runtime-2.3.1/res
+org.opencv.samples.facedetect.logo-detection-pngs-3 /Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/build/generated/res/pngs/debug
+org.opencv.samples.facedetect.logo-detection-resValues-4 /Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/build/generated/res/resValues/debug
+org.opencv.samples.facedetect.logo-detection-packageDebugResources-5 /Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+org.opencv.samples.facedetect.logo-detection-packageDebugResources-6 /Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+org.opencv.samples.facedetect.logo-detection-debug-7 /Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/build/intermediates/merged_res/debug/mergeDebugResources
+org.opencv.samples.facedetect.logo-detection-logo-detection-8 /Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/res
+org.opencv.samples.facedetect.logo-detection-debug-9 /Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/src/debug/res
+org.opencv.samples.facedetect.logo-detection-debug-10 /Users/jiangyanxin/Desktop/logo detection/sdk/build/intermediates/packaged_res/debug/packageDebugResources

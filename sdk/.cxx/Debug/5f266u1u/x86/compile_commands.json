@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/jiangyanxin/Desktop/logo detection/sdk/.cxx/Debug/5f266u1u/x86",
+  "command": "/Users/jiangyanxin/Library/Android/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --sysroot=/Users/jiangyanxin/Library/Android/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/opencv_jni_shared.dir/dummy.cpp.o -c \"/Users/jiangyanxin/Desktop/logo detection/sdk/libcxx_helper/dummy.cpp\"",
+  "file": "/Users/jiangyanxin/Desktop/logo detection/sdk/libcxx_helper/dummy.cpp"
+}
+]

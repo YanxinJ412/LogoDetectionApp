@@ -1,0 +1,4 @@
+/Users/jiangyanxin/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/jiangyanxin/Downloads/OpenCV-android-sdk/sdk/.cxx/Debug/2u3a6g3b/arm64-v8a \
+  opencv_jni_shared

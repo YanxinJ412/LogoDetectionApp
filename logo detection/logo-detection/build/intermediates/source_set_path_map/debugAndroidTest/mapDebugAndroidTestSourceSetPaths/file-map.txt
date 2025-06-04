@@ -1,0 +1,4 @@
+org.opencv.samples.facedetect.test.logo-detection-androidTest-0 /Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/build/generated/res/resValues/androidTest/debug
+org.opencv.samples.facedetect.test.logo-detection-mergeDebugAndroidTestResources-1 /Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+org.opencv.samples.facedetect.test.logo-detection-mergeDebugAndroidTestResources-2 /Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+org.opencv.samples.facedetect.test.logo-detection-debugAndroidTest-3 /Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

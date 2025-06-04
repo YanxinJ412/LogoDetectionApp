@@ -1,0 +1,1 @@
+/Users/jiangyanxin/Downloads/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/2u3a6g3b/obj/x86

@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/jiangyanxin/Downloads/OpenCV-android-sdk/sdk/.cxx/Debug/2u3a6g3b/x86_64'
+ninja: no work to do.

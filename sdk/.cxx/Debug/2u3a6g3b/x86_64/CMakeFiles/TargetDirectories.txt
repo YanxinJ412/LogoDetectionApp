@@ -1,0 +1,3 @@
+/Users/jiangyanxin/Downloads/OpenCV-android-sdk/sdk/.cxx/Debug/2u3a6g3b/x86_64/CMakeFiles/opencv_jni_shared.dir
+/Users/jiangyanxin/Downloads/OpenCV-android-sdk/sdk/.cxx/Debug/2u3a6g3b/x86_64/CMakeFiles/edit_cache.dir
+/Users/jiangyanxin/Downloads/OpenCV-android-sdk/sdk/.cxx/Debug/2u3a6g3b/x86_64/CMakeFiles/rebuild_cache.dir

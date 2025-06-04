@@ -1,0 +1,8 @@
+org.opencv.samples.facedetect.face-detection-pngs-0 /Users/jiangyanxin/Downloads/OpenCV-android-sdk/samples/face-detection/build/generated/res/pngs/release
+org.opencv.samples.facedetect.face-detection-resValues-1 /Users/jiangyanxin/Downloads/OpenCV-android-sdk/samples/face-detection/build/generated/res/resValues/release
+org.opencv.samples.facedetect.face-detection-packageReleaseResources-2 /Users/jiangyanxin/Downloads/OpenCV-android-sdk/samples/face-detection/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+org.opencv.samples.facedetect.face-detection-packageReleaseResources-3 /Users/jiangyanxin/Downloads/OpenCV-android-sdk/samples/face-detection/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+org.opencv.samples.facedetect.face-detection-release-4 /Users/jiangyanxin/Downloads/OpenCV-android-sdk/samples/face-detection/build/intermediates/merged_res/release/mergeReleaseResources
+org.opencv.samples.facedetect.face-detection-face-detection-5 /Users/jiangyanxin/Downloads/OpenCV-android-sdk/samples/face-detection/res
+org.opencv.samples.facedetect.face-detection-release-6 /Users/jiangyanxin/Downloads/OpenCV-android-sdk/samples/face-detection/src/release/res
+org.opencv.samples.facedetect.face-detection-release-7 /Users/jiangyanxin/Downloads/OpenCV-android-sdk/sdk/build/intermediates/packaged_res/release/packageReleaseResources

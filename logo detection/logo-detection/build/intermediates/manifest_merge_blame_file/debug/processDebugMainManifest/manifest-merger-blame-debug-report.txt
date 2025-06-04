@@ -1,0 +1,97 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.opencv.samples.facedetect"
+4    android:versionCode="301"
+5    android:versionName="3.01" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <supports-screens
+11-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:22:5-26:51
+12        android:anyDensity="true"
+12-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:26:23-48
+13        android:largeScreens="true"
+13-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:25:23-50
+14        android:normalScreens="true"
+14-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:24:23-51
+15        android:resizeable="true"
+15-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:22:23-48
+16        android:smallScreens="true" />
+16-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:23:23-50
+17
+18    <uses-permission android:name="android.permission.CAMERA" />
+18-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:28:5-64
+18-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:28:22-62
+19
+20    <uses-feature
+20-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:30:5-84
+21        android:name="android.hardware.camera"
+21-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:30:19-57
+22        android:required="false" />
+22-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:30:58-82
+23    <uses-feature
+23-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:31:5-94
+24        android:name="android.hardware.camera.autofocus"
+24-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:31:19-67
+25        android:required="false" />
+25-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:31:68-92
+26    <uses-feature
+26-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:32:5-90
+27        android:name="android.hardware.camera.front"
+27-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:32:19-63
+28        android:required="false" />
+28-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:32:64-88
+29    <uses-feature
+29-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:33:5-100
+30        android:name="android.hardware.camera.front.autofocus"
+30-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:33:19-73
+31        android:required="false" />
+31-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:33:74-98
+32
+33    <permission
+33-->[androidx.core:core:1.9.0] /Users/jiangyanxin/.gradle/caches/8.11.1/transforms/b0dd54327a27306e7e59bf3f9b60b4a3/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+34        android:name="org.opencv.samples.facedetect.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+34-->[androidx.core:core:1.9.0] /Users/jiangyanxin/.gradle/caches/8.11.1/transforms/b0dd54327a27306e7e59bf3f9b60b4a3/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+35        android:protectionLevel="signature" />
+35-->[androidx.core:core:1.9.0] /Users/jiangyanxin/.gradle/caches/8.11.1/transforms/b0dd54327a27306e7e59bf3f9b60b4a3/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+36
+37    <uses-permission android:name="org.opencv.samples.facedetect.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+37-->[androidx.core:core:1.9.0] /Users/jiangyanxin/.gradle/caches/8.11.1/transforms/b0dd54327a27306e7e59bf3f9b60b4a3/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+37-->[androidx.core:core:1.9.0] /Users/jiangyanxin/.gradle/caches/8.11.1/transforms/b0dd54327a27306e7e59bf3f9b60b4a3/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+38
+39    <application
+39-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:6:5-20:19
+40        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+40-->[androidx.core:core:1.9.0] /Users/jiangyanxin/.gradle/caches/8.11.1/transforms/b0dd54327a27306e7e59bf3f9b60b4a3/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+41        android:debuggable="true"
+42        android:extractNativeLibs="false"
+43        android:icon="@drawable/icon"
+43-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:8:9-38
+44        android:label="@string/app_name" >
+44-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:7:9-41
+45        <activity
+45-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:10:9-19:20
+46            android:name="org.opencv.samples.facedetect.FaceDetectActivity"
+46-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:12:19-52
+47            android:configChanges="keyboardHidden|orientation"
+47-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:14:19-69
+48            android:exported="true"
+48-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:11:19-42
+49            android:label="@string/app_name" >
+49-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:13:19-51
+50            <intent-filter>
+50-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:15:13-18:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:16:17-69
+51-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:16:25-66
+52
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:17:17-77
+53-->/Users/jiangyanxin/Desktop/logo detection/logo detection/logo-detection/AndroidManifest.xml:17:27-74
+54            </intent-filter>
+55        </activity>
+56    </application>
+57
+58</manifest>
